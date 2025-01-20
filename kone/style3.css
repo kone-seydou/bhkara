@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.356);
+}
+
+hr{
+    background-color: rgba(0, 0, 0, 0.014);
+}
+
+section{
+    background-image: url(loo.jpg);
+}
